@@ -1,0 +1,12 @@
+https://resttesttest.com
+
+Buscar =
+
+http://localhost:3000/api/score
+
+Cadastrar = 
+
+http://localhost:3000/api/score/add
+
+
+
